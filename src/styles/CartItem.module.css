@@ -1,0 +1,4 @@
+.cartItemContainer {
+  display: flex;
+  gap: 10px;
+}

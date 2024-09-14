@@ -1,0 +1,10 @@
+.productListContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.productContainer {
+  display: flex;
+  gap: 10px;
+}
