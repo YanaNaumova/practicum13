@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practicum13/static/css/main.f87ece83.css",
+    "main.js": "/practicum13/static/js/main.f380227c.js",
+    "index.html": "/practicum13/index.html",
+    "main.f87ece83.css.map": "/practicum13/static/css/main.f87ece83.css.map",
+    "main.f380227c.js.map": "/practicum13/static/js/main.f380227c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f87ece83.css",
+    "static/js/main.f380227c.js"
+  ]
+}
